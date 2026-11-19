@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bariskaraelma.github.io/sitemap.xml
